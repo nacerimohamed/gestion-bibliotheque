@@ -53,10 +53,4 @@ Avant de commencer, assurez-vous d'avoir installé :
 - [npm](https://www.npmjs.com/) (version 6.x ou supérieure)
 - Un navigateur web ou [Postman](https://www.postman.com/) pour tester les API
 
-## 🚀 Installation
 
-### 1. Cloner le projet
-
-```bash
-git clone https://github.com/votre-utilisateur/gestion-bibliotheque.git
-cd gestion-bibliotheque
